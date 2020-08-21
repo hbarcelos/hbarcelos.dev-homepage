@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "*"
+  to = "https://blog.henriquebarcelos.dev"
+  status = 302
+  force = true
